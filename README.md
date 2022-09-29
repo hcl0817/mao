@@ -29,7 +29,8 @@ MXPlayer-Pro-1.46.10高级解锁版
 [https://liucn.lanzouv.com/ixhSy097prod](https://liucn.lanzouv.com/ixhSy097prod)  
 [https://tsq.lanzouf.com/b0c4p1nyf](https://tsq.lanzouf.com/b0c4p1nyf) 密 123   
 
-[道长dr_py搭建图文演示教程](http://www.liucn.cc/83.html),经过测试Replit免费搭建的站点 只能自用，人多就会爆表。
+[道长dr_py搭建图文演示教程](http://www.liucn.cc/83.html),经过测试Replit免费搭建的站点 只能自用，人多就会爆表。  
+🚀 缩短你的链接！【神器每日推送版】https://xxooo.ml/
 ------
 ### 开源仓库
 https://github.com/  
@@ -48,6 +49,10 @@ http://epg.51zmt.top:8000/e.xml
 https://epg.112114.xyz/pp.xml  
 
 ------
+### 给英文不好的朋友
+GitHub 中文化插件 https://greasyfork.org/zh-CN/scripts/435208  
+Github 增强 - 高速下载https://greasyfork.org/zh-CN/scripts/412245  
+
 ### Github RAW 加速服务
 
 源码   `https://gitcdn.top/https://github.com/liu673cn/box/raw/main/m.json`  
